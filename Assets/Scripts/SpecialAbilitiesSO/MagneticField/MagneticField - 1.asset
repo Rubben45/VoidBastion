@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9311907279b6c2c4b9bb2b2f13ad5df4, type: 3}
+  m_Name: MagneticField - 1
+  m_EditorClassIdentifier: 
+  specialAbilityType: 1
+  specialAbilityLevel: 0
+  abilityName: Magnetic Field - 1
+  abilityDescription: 'Creates a magnetic field around you, damaging all nearby enemies.
+
+
+
+    DMG:
+    10
+
+
+    Cooldown: 6 sec
+
+
+    AoE: 2 units
+
+'
+  abilityIcon: {fileID: 21300000, guid: 85869a94fc7ad68459c990fb66042137, type: 3}
